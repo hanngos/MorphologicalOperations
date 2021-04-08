@@ -1,0 +1,6 @@
+LIBRARY JAAsm
+EXPORTS
+asmbinarization
+asmAddFrame
+asmDilationCheckNeighbourhood
+asmErosionCheckNeighbourhood

@@ -1,0 +1,6 @@
+C:\Users\Hania\source\repos\JA_Projekt\JA_Projekt\x64\Debug\JA_Projekt.vcxprojAssemblyReference.cache
+C:\Users\Hania\source\repos\JA_Projekt\JA_Projekt\x64\Debug\JAProjekt.MyForm.resources
+C:\Users\Hania\source\repos\JA_Projekt\JA_Projekt\x64\Debug\JA_Projekt.vcxproj.GenerateResource.cache
+C:\Users\irene\source\repos\JA_Projekt\JA_Projekt\x64\Debug\JA_Projekt.vcxprojAssemblyReference.cache
+C:\Users\irene\source\repos\JA_Projekt\JA_Projekt\x64\Debug\JAProjekt.MyForm.resources
+C:\Users\irene\source\repos\JA_Projekt\JA_Projekt\x64\Debug\JA_Projekt.vcxproj.GenerateResource.cache

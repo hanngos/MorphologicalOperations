@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\irene\source\repos\JA_Projekt\JA_Projekt\MyForm.h(36,10): warning C4677: „bmp”: Sygnatura nieprywatnej składowej zawiera prywatny typ zestawu „BMP”
+C:\Users\irene\source\repos\JA_Projekt\JA_Projekt\BMP.h(14): message : zobacz deklarację „BMP”
+C:\Users\irene\source\repos\JA_Projekt\JA_Projekt\MyForm.h(37,28): warning C4677: „libHandler”: Sygnatura nieprywatnej składowej zawiera prywatny typ zestawu „LibraryHandler”
+C:\Users\irene\source\repos\JA_Projekt\JA_Projekt\LibraryHandler.h(9): message : zobacz deklarację „LibraryHandler”
+  BMP.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  JA_Projekt.vcxproj -> C:\Users\irene\source\repos\JA_Projekt\x64\Debug\JA_Projekt.exe

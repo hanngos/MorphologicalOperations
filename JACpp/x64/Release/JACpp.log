@@ -1,0 +1,19 @@
+﻿  JACpp.cpp
+  0 of 5 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+JACpp.h(1): warning LNK4017: instrukcja #pragma nie jest obsługiwana dla platformy docelowej; zignorowano
+JACpp.h(3): warning LNK4017: instrukcja #ifdef nie jest obsługiwana dla platformy docelowej; zignorowano
+JACpp.h(4): warning LNK4017: instrukcja #define nie jest obsługiwana dla platformy docelowej; zignorowano
+JACpp.h(5): warning LNK4017: instrukcja #else nie jest obsługiwana dla platformy docelowej; zignorowano
+JACpp.h(6): warning LNK4017: instrukcja #define nie jest obsługiwana dla platformy docelowej; zignorowano
+JACpp.h(7): warning LNK4017: instrukcja #endif nie jest obsługiwana dla platformy docelowej; zignorowano
+JACpp.h(9): warning LNK4017: instrukcja extern nie jest obsługiwana dla platformy docelowej; zignorowano
+JACpp.h(10): warning LNK4017: instrukcja extern nie jest obsługiwana dla platformy docelowej; zignorowano
+JACpp.h(11): warning LNK4017: instrukcja //extern nie jest obsługiwana dla platformy docelowej; zignorowano
+JACpp.h(12): warning LNK4017: instrukcja extern nie jest obsługiwana dla platformy docelowej; zignorowano
+JACpp.h(13): warning LNK4017: instrukcja extern nie jest obsługiwana dla platformy docelowej; zignorowano
+     Trwa tworzenie biblioteki C:\Users\irene\source\repos\JA_Projekt\x64\Release\JACpp.lib i obiektu C:\Users\irene\source\repos\JA_Projekt\x64\Release\JACpp.exp
+  Trwa generowanie kodu
+  Zakończono generowanie kodu
+  JACpp.vcxproj -> C:\Users\irene\source\repos\JA_Projekt\x64\Release\JACpp.dll
